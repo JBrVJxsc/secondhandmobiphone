@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobilePhoneLoader", "MobilePhoneLoader\MobilePhoneLoader.csproj", "{9FC02145-45DE-4BA9-A307-C5095546E3FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobilePhone", "MobilePhone\MobilePhone.csproj", "{5CE90F1F-4913-4946-8566-BB51EC52510C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobilePhoneLibrary", "MobilePhoneLibrary\MobilePhoneLibrary.csproj", "{8672729B-04E9-4DC9-BE0D-66A5058AEEEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FC02145-45DE-4BA9-A307-C5095546E3FE}.Debug|x86.ActiveCfg = Debug|x86
+		{9FC02145-45DE-4BA9-A307-C5095546E3FE}.Debug|x86.Build.0 = Debug|x86
+		{9FC02145-45DE-4BA9-A307-C5095546E3FE}.Release|x86.ActiveCfg = Release|x86
+		{9FC02145-45DE-4BA9-A307-C5095546E3FE}.Release|x86.Build.0 = Release|x86
+		{5CE90F1F-4913-4946-8566-BB51EC52510C}.Debug|x86.ActiveCfg = Debug|x86
+		{5CE90F1F-4913-4946-8566-BB51EC52510C}.Debug|x86.Build.0 = Debug|x86
+		{5CE90F1F-4913-4946-8566-BB51EC52510C}.Release|x86.ActiveCfg = Release|x86
+		{5CE90F1F-4913-4946-8566-BB51EC52510C}.Release|x86.Build.0 = Release|x86
+		{8672729B-04E9-4DC9-BE0D-66A5058AEEEB}.Debug|x86.ActiveCfg = Debug|x86
+		{8672729B-04E9-4DC9-BE0D-66A5058AEEEB}.Debug|x86.Build.0 = Debug|x86
+		{8672729B-04E9-4DC9-BE0D-66A5058AEEEB}.Release|x86.ActiveCfg = Release|x86
+		{8672729B-04E9-4DC9-BE0D-66A5058AEEEB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
